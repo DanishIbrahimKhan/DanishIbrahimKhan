@@ -14,7 +14,7 @@
 ### 📫 Contact Me
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-blue?style=for-the-badge)](https://mr-danishibrahim.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DanishIbrahimKhan-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/your-link)
-[![Email](https://img.shields.io/badge/Email-danish@example.com-red?style=for-the-badge&logo=gmail)](mailto:danish@example.com)
+[![Email](https://img.shields.io/badge/Email-mr.danishibrahimk@gmai.com-red?style=for-the-badge&logo=gmail)](mailto:mr.danishibrahimk@gmail.com)
 
 ---
 
