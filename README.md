@@ -12,7 +12,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F72585&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Creative+Coder+%F0%9F%94%A5;Pixel-Perfect+UI+Designer+%F0%9F%8C%8D;Backend+Builder+with+Node+%7C+Express;Lover+of+Clean+Code+%E2%9C%94%EF%B8%8F" alt="Typing SVG" />
 </p>
-<img src="https://media1.tenor.com/m/yaaIT6DL-ucAAAAC/keanu-reeves-you%27re-welcome.gif" width="300px" />
+<div align="center">
+<img src="https://media1.tenor.com/m/yaaIT6DL-ucAAAAC/keanu-reeves-you%27re-welcome.gif" width="200px" />
+</div>
 
 ---
 
