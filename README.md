@@ -97,7 +97,7 @@
 > _“Be so good they can’t ignore you.” – Steve Martin_
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDD835&center=true&vCenter=true&width=800&lines=✨+Thanks+for+stopping+by!+Let's+connect+and+build+cool+stuff!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FDD835&center=true&vCenter=true&width=800&lines=✨+Thanks+for+stopping+by!+Let's+connect+and+build+cool+stuff!" alt="Typing SVG" />
 </p>
+
