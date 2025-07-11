@@ -44,7 +44,6 @@
 </p>
 
 ---
-
 | 💻 Frontend | ⚙️ Backend | 🛠️ Tools & DevOps |
 |------------|------------|-------------------|
 | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
@@ -56,6 +55,8 @@
 | ![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=ant-design&logoColor=white) | ![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logo=fastapi&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI/CD-BD34A0?style=flat-square&logo=github&logoColor=white) |
 | ![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF008F?style=flat-square&logo=framer&logoColor=white) |  | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
+|  |  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
 
 
 ### 🌟 GitHub Stats
